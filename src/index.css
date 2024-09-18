@@ -1,0 +1,35 @@
+#heading{
+  padding-left: 500px;
+  padding-top: 50px;
+  font-size: 50px;
+  color: darkblue;
+  width: 100%;
+}
+#divv{
+  padding-left: 300px;
+  padding-top: 40px;
+}
+#main{
+  background-color: rgba(223, 223, 223, 0.721);
+  height: 680px;
+  margin: 10px;
+}
+#link{
+  font-size: 20px;
+}
+#table1{
+  margin-top: 20px;
+  font-size: 20px;
+}
+.th{
+  padding-right: 100px;
+}
+#btn1{
+  margin-left: 70px;
+}
+.label1{
+  font-size: 20px;
+  padding: 10px;
+  color: darkblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
